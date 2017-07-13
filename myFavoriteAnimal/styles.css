@@ -1,0 +1,43 @@
+/* 添加 CSS */
+.info {
+	font-style: italic;
+	font-size: 18px;
+}
+
+.main-body {
+	border: 1px solid #adb3bc;
+	width: 350px;
+	box-shadow: 5px 10px 5px 5px rgba(0,0,0,0.1)
+}
+
+.pic {
+	width: 300px;
+	margin: auto; 
+	display: block;
+	padding: 0.8em;
+	border-radius:3px;
+}
+
+.text-box {
+	border: 1px solid #adb3bc;
+	width: 280px;
+	margin: auto;
+	padding: 1em;
+	margin-bottom: 10px;
+}
+
+.title {
+	padding-left: 20px;
+	margin-top: 5px;
+	margin-bottom: 0;
+	font-size: 50px;
+	font-family: 'Bubbler One', sans-serif;
+}
+
+.list{
+	padding-left: 0;
+	list-style-type: none;
+}
+span{
+	font-weight: bold;
+}
